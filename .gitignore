@@ -3,7 +3,6 @@ node_modules/
 package-lock.json
 .DS_Store
 clarinet.json
-settings/Devnet.toml
 settings/LocalDevnet.toml
 coverage/
 .cache/

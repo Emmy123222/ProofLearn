@@ -17,7 +17,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-50 text-gray-900">
       <div className="mx-auto max-w-4xl p-6">
         <header className="mb-8">
-          <h1 className="text-2xl font-semibold">On-chain Certificate Issuer</h1>
+          <h1 className="text-2xl font-semibold">Proof Learning</h1>
           <p className="text-gray-600">React + TypeScript + Tailwind starter</p>
         </header>
 

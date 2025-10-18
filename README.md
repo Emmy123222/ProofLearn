@@ -1,10 +1,10 @@
-# On-chain Certificate Issuer
+# Proof Learning
 
-A Clarity smart contract for issuing and verifying course completion certificates on the Stacks blockchain.
+An on-chain certificate project (Clarity + React) for issuing and verifying course completion certificates on the Stacks blockchain.
 
 ## Goal of the Project
 
-This is a smart contract for an on-chain certificate issuing system. It allows course creators or instructors to issue certificates to students who complete a course. The certificates are stored on-chain and can be verified publicly.
+This is a smart contract for an on-chain certificate issuing system. It allows course creators or instructors to issue certificates to students who complete a course. The certificates are stored on-chain and can be verified publicly. The web app is called "Proof Learning".
 
 ## What the Contract Does (Main Features)
 

@@ -1,5 +1,5 @@
 [project]
-name = "certificate-issuer"
+name = "proof-learning"
 requirements = []
 
 [contracts.certificate-issuer]
