@@ -1,0 +1,8 @@
+[project]
+name = "certificate-issuer"
+requirements = []
+
+[contracts.certificate-issuer]
+path = "contracts/certificate-issuer.clar"
+clarity_version = 2
+epoch = "2.4"

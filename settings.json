@@ -1,0 +1,6 @@
+{
+  "test": {
+    "coverage": true,
+    "provider": "simnet"
+  }
+}
