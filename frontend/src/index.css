@@ -2,7 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-/* App tweaks */
-:root {
-  color-scheme: light;
+@layer base {
+  html {
+    @apply h-full;
+  }
+  body {
+    @apply min-h-full bg-pl-bg text-pl-text dark:bg-pld-bg dark:text-pld-text font-body;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+  code, .mono {
+    @apply font-mono;
+  }
 }

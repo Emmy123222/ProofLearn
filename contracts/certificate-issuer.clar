@@ -1,7 +1,6 @@
 ;; certificate-issuer.clar
 ;; Clarity v2 smart contract for issuing on-chain course completion certificates
 
-;; Note: This contract does not implement any trait.
 
 (define-constant ERR_UNAUTHORIZED (err u100))
 (define-constant ERR_ALREADY_REGISTERED (err u101))
